@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme using AppCompat for compatibility with AppCompatActivity -->
+    <style name="Base.Theme.Raypher_Pro" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color (Green for security/encrypted) -->
+        <item name="colorPrimary">#00E676</item>
+        <!-- Darker variant for status bar -->
+        <item name="colorPrimaryDark">#000000</item>
+        <!-- Accent color (Red for alerts) -->
+        <item name="colorAccent">#FF1744</item>
+        <!-- Background color (Black for cyberpunk theme) -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#888888</item>
+    </style>
+
+    <!-- Main application theme -->
+    <style name="Theme.Raypher_Pro" parent="Base.Theme.Raypher_Pro" />
+</resources>

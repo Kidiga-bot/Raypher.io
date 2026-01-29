@@ -1,0 +1,24 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Raypher_Pro</string>
+    
+    <!-- MainActivity Dashboard Strings -->
+    <string name="dashboard_header">RAYPHER SENTINEL</string>
+    <string name="protected_apps">Protected Applications</string>
+    <string name="app_whatsapp">WhatsApp</string>
+    <string name="app_gmail">Gmail</string>
+    <string name="app_savannah">Savannah Trust</string>
+    <string name="status_secured">✓ Secured</string>
+    <string name="savannah_subtitle">Banking App - Threat Detection Active</string>
+    <string name="scanning">Scanning for vulnerable apps...</string>
+    <string name="threat_detected">🔍 Threat Detected: Savannah Trust Mobile</string>
+    <string name="interceptor_armed">⚡ Interceptor Armed.</string>
+    <string name="protection_disabled">⚠️ Protection Disabled.</string>
+    
+    <!-- BlockActivity Strings -->
+    <string name="threat_title">SECURITY THREAT DETECTED</string>
+    <string name="threat_subtitle">Unauthorized Transaction Signature</string>
+    <string name="threat_target">Target: Savannah Trust Mobile</string>
+    <string name="override_button">BIOMETRIC OVERRIDE</string>
+    <string name="threat_neutralized">Identity Verified. Threat Neutralized.</string>
+</resources>
